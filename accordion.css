@@ -25,7 +25,7 @@
 }
 
 .accordion-button:hover {
-  background-color: silver;/* Changes the background color when hovering */
+  background-color: rgb(151, 176, 180);/* Changes the background color when hovering */
 }
 
 
@@ -56,7 +56,7 @@
   padding: 0 1rem; /* Left and right padding when closed */
   border-bottom-left-radius: 1rem; /* Rounds the bottom corners */
   border-bottom-right-radius: 1rem; /* Rounds the bottom corners */
-  transition: all 0.5s ease; /* Speed of open/close animation */
+  transition: all 0.8s ease; /* Speed of open/close animation */
 }
 
 
@@ -78,8 +78,8 @@
 /* Basic page styles
 ----------------------------------*/
 body {
-  background-color: cornsilk; /* Background color for the whole page */
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(129, 173, 190); /* Background color for the whole page */
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .wrapper {
